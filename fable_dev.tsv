@@ -1,44 +1,44 @@
 text	label
-"Bitte, bitte, bitte?“"	neg
-Du kannst doch nicht fliegen.“	neg
-"„Natürlich kann ich das“,"	pos
-Und da flogen die stärksten Vögel hinunter zur Erde und nahmen einen Stock.	pos
-Ist das Geschäft wieder so schlecht verlaufen?	neg
-"„Aber wir Vögel, wir schreien doch gar nicht, wir besprechen uns.“"	neg
-Es geht uns nicht allein so.	neg
-"Weil im Süden, da ist es schön warm und es gibt genug zu Fressen.“"	pos
-Ich habe alles versucht.	neg
-Ich weiß wirklich nicht mehr, wie es weitergehen soll.	neg
-"„Oohhhhh, da gibt’s was zu Fressen?"	pos
-Keine Arbeit, keine Geschäfte.	neg
-Sie mussten es einfach versuchen.	pos
-Von dort sollte es dann mit einem der ersten Dampfschiffe nach Nordamerika gehen.	pos
-"Aber die Schildkröte, die bat und bettelte und flehte die Vögel an, sie doch mitzunehmen."	neg
-"„Sag Schildkröte, kannst du dich auch in einem Stock festbeißen und dich ganz, ganz festhalten?“"	pos
-"„Aber Schildkröte, du weißt ja gar nichts."	neg
-"Es war einmal, vor langer, langer Zeit, als die Erde noch jung und die Märchen noch wahr waren, da ging eine Schildkröte im Herbst spazieren."	pos
-Die Familie machte sich mit Sack und Pack auf nach Hamburg.	pos
-sagte die Schildkröte.	pos
-"Bitte, bitte, bitte!“"	neg
-Sie besprachen sich untereinander und hatten einen Einfall:	pos
-Aber mit der Zeit wurde die Schildkröte ungeduldig.	neg
-Nichts hat sich geändert.	neg
-Das Geld würden sie abarbeiten, wenn sie in Amerika Fuß gefasst hätten.	pos
-Bald muss die Brauerei geschlossen werden.	neg
-Seine Frau umarmte ihn von hinten, drückte seinen Oberkörper an ihren gewölbten Bauch.	pos
-Überall wo ich war, habe ich von den gleichen Problemen gehört.	neg
-Sie bewunderte die bunten Blätter und kam schließlich zu einigen Bäumen.	pos
-Ein Jahr später war es endlich so weit.	pos
-Die ersten 5000 Mark hatten hatten ihnen die Verwandten vorgestreckt.	pos
-"„Ich tu auch alles was ihr sagt, aber nehmt mich mit!"	neg
-„Hey ihr da oben.	neg
-"„Wenn das so ist, können wir dich mitnehmen!“"	pos
-"Es war ein wunderschöner Tag, etwa so wie heute."	pos
-Auch wenn es ein Aufbruch ins Ungewisse sein sollte.	pos
-Und was habt ihr da so Wichtiges zu besprechen?“	pos
-Schlecht?	neg
-Ich weiß wirklich nicht weiter.	neg
-Else, seine Frau, bereits mit Ende dreißig war schon schwer vom mühseligen Leben gekennzeichnet, ging um den Tisch herum und stellte sich vor ihren Mann.	neg
-"Sie wollte wissen wie lang sie noch fliegen würden, wann sie den Süden erreichen würden, ob sie jetzt endlich den Süden erreicht hätten."	neg
-Aber die Vögel bemerkten es gar nicht und flogen mit ihr weiter.	neg
-„Aber Schildkröte?	neg
+sagte die Schildkröte.	POSITIVE
+„Hey ihr da oben.	NEGATIVE
+"Es war einmal, vor langer, langer Zeit, als die Erde noch jung und die Märchen noch wahr waren, da ging eine Schildkröte im Herbst spazieren."	POSITIVE
+"„Natürlich kann ich das“,"	POSITIVE
+Ich habe alles versucht.	NEGATIVE
+Ich weiß wirklich nicht mehr, wie es weitergehen soll.	NEGATIVE
+Das Geld würden sie abarbeiten, wenn sie in Amerika Fuß gefasst hätten.	POSITIVE
+"Bitte, bitte, bitte?“"	NEGATIVE
+Ich weiß wirklich nicht weiter.	NEGATIVE
+Sie bewunderte die bunten Blätter und kam schließlich zu einigen Bäumen.	POSITIVE
+"„Wenn das so ist, können wir dich mitnehmen!“"	POSITIVE
+Aber mit der Zeit wurde die Schildkröte ungeduldig.	NEGATIVE
+"„Aber wir Vögel, wir schreien doch gar nicht, wir besprechen uns.“"	NEGATIVE
+Sie besprachen sich untereinander und hatten einen Einfall:	POSITIVE
+"„Aber Schildkröte, du weißt ja gar nichts."	NEGATIVE
+„Aber Schildkröte?	NEGATIVE
+Else, seine Frau, bereits mit Ende dreißig war schon schwer vom mühseligen Leben gekennzeichnet, ging um den Tisch herum und stellte sich vor ihren Mann.	NEGATIVE
+"„Ich tu auch alles was ihr sagt, aber nehmt mich mit!"	NEGATIVE
+Die Familie machte sich mit Sack und Pack auf nach Hamburg.	POSITIVE
+Keine Arbeit, keine Geschäfte.	NEGATIVE
+"Sie wollte wissen wie lang sie noch fliegen würden, wann sie den Süden erreichen würden, ob sie jetzt endlich den Süden erreicht hätten."	NEGATIVE
+Bald muss die Brauerei geschlossen werden.	NEGATIVE
+"Es war ein wunderschöner Tag, etwa so wie heute."	POSITIVE
+Ist das Geschäft wieder so schlecht verlaufen?	NEGATIVE
+Seine Frau umarmte ihn von hinten, drückte seinen Oberkörper an ihren gewölbten Bauch.	POSITIVE
+"Aber die Schildkröte, die bat und bettelte und flehte die Vögel an, sie doch mitzunehmen."	NEGATIVE
+"„Sag Schildkröte, kannst du dich auch in einem Stock festbeißen und dich ganz, ganz festhalten?“"	POSITIVE
+"„Oohhhhh, da gibt’s was zu Fressen?"	POSITIVE
+Sie mussten es einfach versuchen.	POSITIVE
+Aber die Vögel bemerkten es gar nicht und flogen mit ihr weiter.	NEGATIVE
+Du kannst doch nicht fliegen.“	NEGATIVE
+Nichts hat sich geändert.	NEGATIVE
+Die ersten 5000 Mark hatten hatten ihnen die Verwandten vorgestreckt.	POSITIVE
+Auch wenn es ein Aufbruch ins Ungewisse sein sollte.	POSITIVE
+"Weil im Süden, da ist es schön warm und es gibt genug zu Fressen.“"	POSITIVE
+Überall wo ich war, habe ich von den gleichen Problemen gehört.	NEGATIVE
+Und was habt ihr da so Wichtiges zu besprechen?“	POSITIVE
+Und da flogen die stärksten Vögel hinunter zur Erde und nahmen einen Stock.	POSITIVE
+Von dort sollte es dann mit einem der ersten Dampfschiffe nach Nordamerika gehen.	POSITIVE
+Schlecht?	NEGATIVE
+Es geht uns nicht allein so.	NEGATIVE
+Ein Jahr später war es endlich so weit.	POSITIVE
+"Bitte, bitte, bitte!“"	NEGATIVE

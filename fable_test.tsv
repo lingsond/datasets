@@ -1,51 +1,51 @@
 text	label
-Der Tod war ihnen sicher.	neg
-Hilfe!	neg
-„Gut festhalten und los geht’s!“	pos
-"Hach, es war schön."	pos
-"Voller Heimweh sprang sie kurzerhand ins weite und tiefe Meer, um nach Hause zu schwimmen."	neg
-Der eine der beiden Frösche war verzweifelt.	neg
-"Sie flogen über Wiesen und Berge, Wälder und Seen."	pos
-"Da schwammen die Frösche nun in der Milch, konnten aber nicht mehr aus dem Eimer springen, da die Wände zu hoch und zu glatt waren."	neg
-Er schwamm und schwamm und schwamm.	pos
-„hier kommen wir nie wieder heraus.“	neg
-Und dann schlug sie auf dem Erdboden auf. 	neg
-Aber aufgeben tue ich deshalb noch lange nicht.	pos
-Aber die Vögel beachteten sie nicht und flogen mit ihr weiter.	neg
-"Und weil sie nicht ausgestorben sind, schwimmen sie noch heute."	pos
-„Ach du Schreck!	neg
-Der Frosch ertrank in der Milch.	neg
-"„Wir müssen sterben“,"	neg
-Endlich  konnte er aus dem Eimer in die Freiheit springen.	pos
-Tapfer schwamm er immer weiter.	pos
-"Und wenn er müde wurde, munterte er sich selbst immer wieder auf."	pos
-Alles tat unserer Schildkröte weh!	neg
-"Die Schildkröte versuchte, etwas zu sagen:"	neg
-Ich bin ein guter Schwimmer!	pos
-"Und die Schildkröte rief und rief, aber niemand antwortete ihr, denn sie war auf einer einsamen, verlassenen Insel."	neg
-Immer weiter.	pos
-"Jeder, der schon einmal geflogen ist, weiß wie schön das Fliegen ist."	pos
-Sie bewegte wild ihren Kopf hin und her und rüttelte am Stock.	neg
-"„Hm, hm, hm!“"	neg
-Durch das Treten hatte der Frosch die Milch zu Butter geschlagen!	pos
-"Zwei Frösche kamen vorbei und waren neugierig, was da wohl im Eimer sei."	pos
-„Aua!“ 	neg
-„Oh Mist!	neg
-"Es stellte sich heraus, dass das keine so gute Idee gewesen war, denn der Eimer war halb gefüllt mit Milch."	neg
-Ist hier irgendwer?“	neg
-"Und er hörte mit dem Schwimmen auf, da alles ja doch keinen Sinn mehr hatte."	neg
-"Ich schwimme, so lange ich kann.“"	pos
-Also sprangen sie mit einem großen Satz in den Eimer.	pos
-"Hilfe, ich will nach Hause!"	neg
-Dann blickte sie sich um:	pos
-Und dann flogen sie mit ihr hoch hinauf in den Himmel.	pos
-"Die Schildkröte hatte ihr Maul geöffnet, den Stock losgelassen, und fiel nun geradewegs auf den Erdboden zu."	neg
-"Aber nach einer Weile öffnete sie die Augen, streckte den Kopf, den Hals, streckte die Beine aus, fand einen Grashalm, verbiss sich darin und drehte sich zurück auf den Bauch."	pos
-"Und so entstanden vor langer, langer Zeit die Wasserschildkröten. "	pos
-Hilfe!“	neg
-Und so stieß der Frosch kräftig mit seinen Hinterbeinen und schwamm im Eimer herum.	pos
-jammerte er	neg
-"Und sie schwamm und schwamm und schwamm und tauchte und planschte, und nach einer Weile machte es ihr im Meer so viel Spaß, dass sie ganz vergaß nach Hause zu schwimmen."	pos
-Aber die Vögel kümmerten sich nicht darum und flogen mit ihr weiter.	neg
-„KANN MIR DENN ENDLICH EINER SA…“	neg
-"Mit letzter Not zog sie den Hals, Kopf und die Beine ein."	neg
+Der Frosch ertrank in der Milch.	NEGATIVE
+"Jeder, der schon einmal geflogen ist, weiß wie schön das Fliegen ist."	POSITIVE
+"Sie flogen über Wiesen und Berge, Wälder und Seen."	POSITIVE
+"Die Schildkröte versuchte, etwas zu sagen:"	NEGATIVE
+"Mit letzter Not zog sie den Hals, Kopf und die Beine ein."	NEGATIVE
+"„Wir müssen sterben“,"	NEGATIVE
+Durch das Treten hatte der Frosch die Milch zu Butter geschlagen!	POSITIVE
+"Und wenn er müde wurde, munterte er sich selbst immer wieder auf."	POSITIVE
+"Die Schildkröte hatte ihr Maul geöffnet, den Stock losgelassen, und fiel nun geradewegs auf den Erdboden zu."	NEGATIVE
+Endlich  konnte er aus dem Eimer in die Freiheit springen.	POSITIVE
+Aber aufgeben tue ich deshalb noch lange nicht.	POSITIVE
+"Voller Heimweh sprang sie kurzerhand ins weite und tiefe Meer, um nach Hause zu schwimmen."	NEGATIVE
+Aber die Vögel beachteten sie nicht und flogen mit ihr weiter.	NEGATIVE
+„KANN MIR DENN ENDLICH EINER SA…“	NEGATIVE
+"Und so entstanden vor langer, langer Zeit die Wasserschildkröten. "	POSITIVE
+„Oh Mist!	NEGATIVE
+„Aua!“ 	NEGATIVE
+"Hach, es war schön."	POSITIVE
+Tapfer schwamm er immer weiter.	POSITIVE
+"Da schwammen die Frösche nun in der Milch, konnten aber nicht mehr aus dem Eimer springen, da die Wände zu hoch und zu glatt waren."	NEGATIVE
+Hilfe!“	NEGATIVE
+Der Tod war ihnen sicher.	NEGATIVE
+"Ich schwimme, so lange ich kann.“"	POSITIVE
+Also sprangen sie mit einem großen Satz in den Eimer.	POSITIVE
+Hilfe!	NEGATIVE
+"Hilfe, ich will nach Hause!"	NEGATIVE
+"Und er hörte mit dem Schwimmen auf, da alles ja doch keinen Sinn mehr hatte."	NEGATIVE
+Alles tat unserer Schildkröte weh!	NEGATIVE
+Immer weiter.	POSITIVE
+Der eine der beiden Frösche war verzweifelt.	NEGATIVE
+Ist hier irgendwer?“	NEGATIVE
+Und so stieß der Frosch kräftig mit seinen Hinterbeinen und schwamm im Eimer herum.	POSITIVE
+Er schwamm und schwamm und schwamm.	POSITIVE
+Dann blickte sie sich um:	POSITIVE
+"Und weil sie nicht ausgestorben sind, schwimmen sie noch heute."	POSITIVE
+"Es stellte sich heraus, dass das keine so gute Idee gewesen war, denn der Eimer war halb gefüllt mit Milch."	NEGATIVE
+Ich bin ein guter Schwimmer!	POSITIVE
+„Gut festhalten und los geht’s!“	POSITIVE
+Sie bewegte wild ihren Kopf hin und her und rüttelte am Stock.	NEGATIVE
+"Und sie schwamm und schwamm und schwamm und tauchte und planschte, und nach einer Weile machte es ihr im Meer so viel Spaß, dass sie ganz vergaß nach Hause zu schwimmen."	POSITIVE
+„Ach du Schreck!	NEGATIVE
+Und dann schlug sie auf dem Erdboden auf. 	NEGATIVE
+jammerte er	NEGATIVE
+"„Hm, hm, hm!“"	NEGATIVE
+Und dann flogen sie mit ihr hoch hinauf in den Himmel.	POSITIVE
+Aber die Vögel kümmerten sich nicht darum und flogen mit ihr weiter.	NEGATIVE
+"Und die Schildkröte rief und rief, aber niemand antwortete ihr, denn sie war auf einer einsamen, verlassenen Insel."	NEGATIVE
+„hier kommen wir nie wieder heraus.“	NEGATIVE
+"Aber nach einer Weile öffnete sie die Augen, streckte den Kopf, den Hals, streckte die Beine aus, fand einen Grashalm, verbiss sich darin und drehte sich zurück auf den Bauch."	POSITIVE
+"Zwei Frösche kamen vorbei und waren neugierig, was da wohl im Eimer sei."	POSITIVE
